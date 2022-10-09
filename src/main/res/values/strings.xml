@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name = "applicant_name">Bibek Bhujel</string>
+    <string name = "applicant_occupation">Junior Android Developer</string>
+</resources>
